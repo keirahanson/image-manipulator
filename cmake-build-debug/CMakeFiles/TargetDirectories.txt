@@ -1,0 +1,3 @@
+/Users/keirahanson/Desktop/Spring2025/M3GP-Image-Manip-khanson3 copy/cmake-build-debug/CMakeFiles/Image-Manip.dir
+/Users/keirahanson/Desktop/Spring2025/M3GP-Image-Manip-khanson3 copy/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/keirahanson/Desktop/Spring2025/M3GP-Image-Manip-khanson3 copy/cmake-build-debug/CMakeFiles/rebuild_cache.dir
