@@ -1,18 +1,19 @@
 Image Manipulator
+
 This is a image manipulation program ran through the command line that allows the user to apply these visual transformations: flip, mirror, invert, and a kaleidoscope effect to any jpg|jpeg|png|JPG|JPEG|PNG| image.
 
 This project combines C++ and Python to work with user input, process and render the images.
 
-Features
-- Cross-platform with Windows, Mac, and Linux
-- Choose from these four options: flip, mirror, invert, or kaleidoscope
+Features:
+- Cross-platformer with Windows, Mac, and Linux
+- Can choose from these four options: flip, mirror, invert, or kaleidoscope
 - Compares the original image with the manipulated result side-by-side
 - Command-line interface input validation
 - Displays and saves the kaleidoscope image output
 
-Technologies Used:
+Languages Used:
 C++ : User input and control logic 
-Python : mage manipulation and display 
+Python : image manipulation and display 
 
 File Descriptions
 main.cpp : Handles the user input, menu display, and passes arguments to Python file below
